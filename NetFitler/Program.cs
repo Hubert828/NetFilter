@@ -21,6 +21,9 @@ using System.Threading.Tasks;
 6. Published folder to remote git folder
    git push original master.
 
+    subsquent update use the following
+
+    git push -u origin master
  */
 namespace NetFitler
 {
