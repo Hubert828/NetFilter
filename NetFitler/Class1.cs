@@ -9,5 +9,6 @@ namespace NetFitler
     class Class1
     {
         // this is a master branch change
+        // add more comment here 
     }
 }
