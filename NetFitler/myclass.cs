@@ -32,5 +32,9 @@ namespace NetFitler
         static void Main(string[] args)
         {
         }
+		void test()
+		{
+			//this is added in master branch
+		}
     }
 }
