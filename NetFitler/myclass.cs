@@ -31,11 +31,6 @@ namespace NetFitler
     {
         static void Main(string[] args)
         {
-
-			// this is change in develop branc
-			// this is a new line in myfeature branch
-
         }
-		
     }
 }
